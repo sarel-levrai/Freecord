@@ -5,10 +5,8 @@
 ![Electron](https://img.shields.io/badge/Electron-Framework-47848F?logo=electron&logoColor=white)
 
 ## How to install ?
-<img width="793" height="504" alt="YoB0v9lsM6" src="https://github.com/user-attachments/assets/da7395cf-1b99-46ea-8fcc-0914dd18f525" />
-
- 
-just run the main.bat and wait !
+<img width="793" height="504" alt="YoB0v9lsM6" src="https://i.ibb.co/9HxXn4Rm/63d10cebfea9.png" />
+just run the install.bat, wait and enjoy !
 
 ## Image
-<img width="793" height="504" alt="sex" src="https://i.ibb.co/7JzT67f3/a3a0c13e678a.png" />
+<img width="793" height="504" alt="sex" src="https://i.ibb.co/DHJ7q8Yt/c4341217a2b7.png" />
