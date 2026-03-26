@@ -1,0 +1,29 @@
+{
+  "name": "freecord",
+  "productName": "Freecord",
+  "version": "0.0.1",
+  "description": "Freecord is a Discord client that adds an extra layer of security, preventing Discord from accessing or monitoring your hardware and software.",
+  "author": "sarel,edstine",
+  "main": "./main.js",
+
+  "scripts": {
+    "start": "electron .",
+    "build": "electron-builder"
+  },
+
+  "dependencies": {},
+
+  "devDependencies": {
+    "electron": "40.1.0",
+    "electron-builder": "^26.8.1"
+  },
+
+  "build": {
+    "appId": "com.freecord.app",
+    "productName": "Freecord",
+
+    "win": {
+      "target": "portable"
+    }
+  }
+}
